@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da040e82-1a6f-4ae9-9e0b-45d7b0de9e82" name="Changes" comment="safaricom PLP assignment">
-      <change afterPath="$PROJECT_DIR$/operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_assignment_week1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_joke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731058578605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="safaricom PLP assignment">
+      <option name="closed" value="true" />
+      <created>1732627725819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732627725819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="safaricom PLP assignment">
+      <option name="closed" value="true" />
+      <created>1732627825261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732627825261</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
